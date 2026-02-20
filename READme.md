@@ -5,9 +5,9 @@
 > **Status:** Completed (2022)  
 > **Role:** Process Manager & L6S Champion  
 > **Methodology:** Iterative DMAIC  
-> **Key Result:** Output increased from 800kg/day → 2,000kg/day. Waste reduced by 90%.
+> **Key Result:** Output increased from 800kg/day → 2,000kg/day. Waste was reduced by 90%.
 > 
-> **Confidentiality Note:** Due to proprietary manufacturing constraints, raw operational data, machine schematics, and the final SOP manuals have been omitted. This repository serves as a comprehensive case study of the engineering methodology and strategic execution.
+> **Confidentiality Note:** Due to proprietary manufacturing constraints, raw operational data, machine schematics, and the final SOP manuals have been omitted. This repository serves as a comprehensive case study of engineering methodology and strategic execution.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Methodology-DMAIC-blue?style=for-the-badge" />
@@ -37,7 +37,7 @@ Without sensor data or documentation, I had to innovate to understand the machin
 
 * **Extracting Tribal Knowledge (Ishikawa):** I facilitated Fishbone diagnostic sessions with veteran operators to extract their unwritten understanding of machine failures, breaking it down into issue areas.
 
-* **Structuring the Logic (Thinking Map):** To documentate the decision-making breakdowns and guide the team's efforts I developed a custom logic tree.
+* **Structuring the Logic (Thinking Map):** To document the decision-making breakdowns and guide the team's efforts I developed a custom logic tree.
 
 * **Filtering the Noise (Prioritization Matrix):** As we couldn't test everything at once. I implemented a weighted scoring matrix methodology to test Impact vs. Effort and objectively rank our hypotheses, defining exactly which machine parameters required physical intervention in Phase 2.
   
@@ -53,7 +53,7 @@ Because of the complexity and lack of documentation, a single DMAIC pass was ins
 
 * Executed the initial qualitative analysis to map the problem space.
 * Secured early stakeholder buy-in by optimizing the factory layout and production sequencing (e.g., eliminating 15meters of wasted operator motion to pack items).
-* Formulated hypotheses for mechanical failures, but reached a limit due to restricted system access and the academic timeframe.
+* Formulated hypotheses for mechanical failures but reached a limit due to restricted system access and the academic timeframe.
 * **Results:** Achieved a cleaner process and documented methodologies and hypotheses for deeper study.
 
 ### Phase 2: Hypothesis Testing & System Decoding (Team: Me + External Specialists)
